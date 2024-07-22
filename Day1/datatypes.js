@@ -25,6 +25,11 @@ let weight = 55.1;
 //let MyAge  = 24; 
 */
 
-let first_name = "Priyanka", last_name = "Arora", marital_status = "Unmarried", country = "India", MyAge  = 24  ;
+// let first_name = "Priyanka", last_name = "Arora", marital_status = "Unmarried", country = "India", MyAge  = 24  ;
 
 
+let myAge = 24;
+let yourAge = 30;
+
+console.log(`I am ${myAge} years old.`);
+console.log(`You are ${yourAge} years old.`);
